@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "docs/Research/3D Worlds and The Web.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "docs/Research/3D Worlds and The Web.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "docs/Research/3D Worlds and The Web.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "docs/Research/3D Worlds and The Web.md"
               }
             }
           }
@@ -159,12 +159,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2246abb6bb8c8960",
+  "active": "105714995e429245",
   "lastOpenFiles": [
-    "docs/What is Project Calzone.md",
     "docs/index.md",
-    "docs/About This Site.md",
+    "docs/What is Project Calzone.md",
+    "docs/Research/3D Worlds and The Web.md",
+    "docs/Research",
     "README.md",
+    "New Text Document.txt",
+    "site/What is Project Calzone/index.html",
+    "site/What is Project Calzone",
+    "site/index.html",
+    "site/404.html",
+    "site/sitemap.xml.gz",
+    "site/sitemap.xml",
+    "site/search/worker.js",
+    "site/search/search_index.json",
+    "site/img/grid.png",
+    "site/fonts/fontawesome-webfont.svg",
+    "docs/About This Site.md",
     "docs/Test Document.md",
     "docs/about.md",
     "docs/HowToUseMKDocs.md"

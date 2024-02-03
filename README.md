@@ -1,5 +1,4 @@
-This is your new *vault*.
+# Calzone Research
+This is the repo for the website I've made for organizing my research surrounding Project Calzone!
 
-Make a note of something, [[create a link]], or try [the Importer](https://help.obsidian.md/Plugins/Importer)!
-
-When you're ready, delete this note and make the vault your own.
+If you'd like more information [visit the website!](https://ehono1.github.io/Calzone-Research/) (That's what this repo exists to help maintain!)
