@@ -1,1 +1,11 @@
+---
 site_name: Project Calzone Research
+theme:
+  name: material
+  features:
+    - navigation.footer
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/EhoNo1
+copyright: Copyright &copy; 2024 Tail Twist Studios
