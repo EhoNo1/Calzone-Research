@@ -1,0 +1,2 @@
+# 3D Worlds and The Web
+I've had the privilege of learning a lot about how the web works from an Instructor who, for a period of time, also developed the front and backend for many of my college's actual web apps and infrastructure. *In fact*, if you want a good reference on how to make client-side web applications: [here's the textbook we're using](https://info340.github.io/). It's Creative Commons licensed.
