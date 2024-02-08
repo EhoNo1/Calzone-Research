@@ -37,9 +37,13 @@ Khronos Group has developed the [GLTF](https://en.wikipedia.org/wiki/GlTF) file 
 
 Godot Natively supports GLTF, which is great! But there's something silly afoot. GLTF is a structured format that uses an inherently *unstructured* language, JSON, to transmit it's data. JSON is meant to be unstructured and flexible because it is a data exchange and storage format where both the writing and reading ends of the communication *already know* what they are talking about.
 
-This makes it a poor candidate to base your formats on *because it has no inherent way to validate itself.* You must write your own data validation software to sanity check that your files are valid or (horrifyingly) do some logistical gymnastics to try and parse the JSON into something that makes sense. It works but it's definitely not ideal, and there's good reason it's relegated to purely data transfer; that's just what it's meant for.
-
+This makes it a poor candidate to base your formats on *because it has no inherent way to validate itself.* You must write your own data validation software to sanity check that your files are valid or (horrifyingly) do some logistical gymnastics to try and parse the JSON into something that makes sense. It works but it's definitely not ideal, and there's good reason it's relegated to purely data transfer; that's just what it's meant for. Khronos knows this, in fact; they have to provide their own GLTF validator tools because the sublanguage they are using is too flexible.
 ### Godot Scene
 https://docs.godotengine.org/en/4.2/contributing/development/file_formats/tscn.html
 
-### Where are we going?
+
+
+### XML??? HTML???
+Recall from the section on [GLTF](#GLTF), that since it's based on JSON, that it can't validate itself. In 
+
+may need to make a plugin to add custom formating to vscode.
